@@ -1,6 +1,2 @@
----
-layout: null
-sitemap: false
----
 User-agent: *
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: https://brave-submarine.cloudvent.net/sitemap.xml
